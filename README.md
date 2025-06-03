@@ -8,6 +8,8 @@ chars_subset.zip: Sample of NüshuStrokes, of stroke frames (characters featured
 
 nvshu_png_images_500.zip: NüshuVision dataset (full)
 
+cross_script_similarity.pdf: OCR detects Chinese mapping of Nüshu character, rather than the character itself
+
 
 
 
